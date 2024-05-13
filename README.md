@@ -1,5 +1,7 @@
 # [UCSD Machine Learning Engineering & AI Bootcamp](https://career-bootcamp.extension.ucsd.edu/programs/machine-learning-engineering/)
-## [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mentalhealthintech.streamlit.app/) Mental Health in the Tech Industry Q&A Chatbot (Capstone Project)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mentalhealthintech.streamlit.app/)
+## Mental Health in the Tech Industry Q&A Chatbot (Capstone Project)
 
 
 The tech industry thrives on innovation and passionate individuals.
